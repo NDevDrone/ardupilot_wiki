@@ -18,4 +18,6 @@ Determining automation or handling qualities using froude scaling of manned hand
 
 Using ArduPlane SITL and Gazebo to develop a >100 kg fixed-wing weight-shift control aircraft model: `uWSC Aircraft Simulator: A Gazebo-based model for uncrewed weight-shift control aircraft flight simulation, pre-print on Research Gate <https://www.researchgate.net/publication/377792766_uWSC_Aircraft_Simulator_A_Gazebo-based_model_for_uncrewed_weight-shift_control_aircraft_flight_simulation>`__ , final publication on `IEEE Xplore <https://ieeexplore.ieee.org/document/10410672>`__
 
+Optimizing cable length and drag modelling for tether-powered multirotor UAVs: `Cable Optimization and Drag Estimation for Tether-Powered Multirotor UAVs <https://arxiv.org/abs/2504.07802>`__
+
 
